@@ -1,0 +1,4 @@
+Final Average Quantization Error (MSE): 2.94e-06
+Quantized model saved to Llama-2-7b-quantized (Size reduction: ~4x)
+
+Average Quantization Error: 1.8906e-06
